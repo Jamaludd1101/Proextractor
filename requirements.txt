@@ -1,0 +1,6 @@
+py7zr==1.0.0
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.7
+PyQt6==6.10.2
+rarfile==4.2
+zipp==3.23.1
