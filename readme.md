@@ -1,7 +1,7 @@
 # Pro Extractor 📦
 
 **Pro Extractor** 
-Software ekstraksi sederhana berbasis kode python.
+Software ekstrak file sederhana tapi powerfull
 
 ---
 
@@ -28,6 +28,6 @@ Software ekstraksi sederhana berbasis kode python.
 Clone repository ini dan pasang library yang dibutuhkan:
 
 ```bash
-git clone [https://github.com/USERNAME_ANDA/ProExtractor.git](https://github.com/USERNAME_ANDA/ProExtractor.git)
+git clone https://github.com/Jamaludd1101/Proextractor.git
 cd ProExtractor
 pip install -r requirements.txt
